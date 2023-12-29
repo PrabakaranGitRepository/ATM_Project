@@ -53,7 +53,7 @@ private LocalDate current_Date = LocalDate.now();  //to print Date
 
                 case 4 -> transfer();
 
-                case 5 -> br = 1;
+                case 5 -> System.exit(0);
             }
 
             if(br==1){
