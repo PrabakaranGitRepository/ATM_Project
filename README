@@ -1,0 +1,8 @@
+This is a project implementing the ATM machine mechanism. I have added the following methods:
+
+withdrawalAmount() -> To withdraw amount
+check_Acc_no_Pin_no() -> To check the user's account number and password
+choice() -> To get the choice from the user as input
+addAmount() -> To add the amount to the user's account
+transfer() -> Extra feature to transfer the amount among the particular bank
+receipt() -> To see the receipt if the user needs it.
